@@ -1,0 +1,12 @@
+a {
+    text-decoration: none !important;
+    /* color: rebeccapurple; */
+    
+}
+
+@media (max-width: 768px) {
+  .mobile-hide {
+      display: none;
+  }
+}
+
